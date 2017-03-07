@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.4.1"
+  },
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "Andrey",
+  "license": "UNLICENSED"
+}
