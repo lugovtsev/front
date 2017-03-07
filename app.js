@@ -2,4 +2,4 @@
 
 let $ = require('jquery');
 
-console.log($);
+alert($('.content').html());
